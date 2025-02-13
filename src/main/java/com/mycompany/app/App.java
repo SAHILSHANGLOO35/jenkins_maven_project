@@ -5,6 +5,6 @@ package com.mycompany.app;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello Maven using Web Hooks and Ngrok");
+        System.out.println("Hello Maven using WebHooks and Ngrok");
     }
 }
